@@ -1,0 +1,5 @@
+Zenalyzer is a software written in Python that allows to decode the data present in zena files, a result from a radio sniffer. Especifically, this radio sniffer receives 802.15.4 packages.
+
+This is useful for research teams who need to interpret results by reading values inside network packages.
+
+I created this script when I was participating at a reaserch with IEEE 802.15.4 Wireless Sensor Networks in my university. It made easier to get experimental data from the nodes.
