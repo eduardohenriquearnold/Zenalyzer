@@ -1,0 +1,6 @@
+https://github.com/ianmartin/zena/blob/master/zena.c
+http://pyusb.sourceforge.net/docs/1.0/tutorial.html
+http://mail.python.org/pipermail/tutor/2008-March/060745.html
+
+ATUAL
+http://florent.clairambault.fr/microchip-zena-analyser-zena-zna-file-format
